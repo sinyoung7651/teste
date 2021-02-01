@@ -8,8 +8,6 @@
   |# h6 | <h6> # h6  |
 
 
-|코드|결과|
+코드|결과
 :---:|:---:
-|<img src ="https://gridaenergy.com/images/logo.png" width = "200" height = "100"
-  |
-<img src ="https://gridaenergy.com/images/logo.png" width = "200" height = "100">|
+|<img src ="https://gridaenergy.com/images/logo.png" width = "200" height = "100"  |<img src ="https://gridaenergy.com/images/logo.png" width = "200" height = "100">
